@@ -4,24 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="296cc3c8-3849-4820-8f00-b225a88b4729" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fk/algorithm/DynamicProgramming.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fk/algorithm/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fk/algorithm/MagicNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fk/algorithm/factorial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fk/algorithm/prime.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BubbleSort.java" afterPath="$PROJECT_DIR$/src/com/fk/sort/BubbleSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsertSort.java" afterPath="$PROJECT_DIR$/src/com/fk/sort/InsertSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/com/fk/sort/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/QueckSort.java" afterPath="$PROJECT_DIR$/src/com/fk/sort/QueckSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SelectSort.java" afterPath="$PROJECT_DIR$/src/com/fk/sort/SelectSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ShellSort.java" afterPath="$PROJECT_DIR$/src/com/fk/sort/ShellSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Sort.java" afterPath="$PROJECT_DIR$/src/com/fk/sort/Sort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javasort.iml" afterPath="$PROJECT_DIR$/javasort.iml" />
-    </list>
+    <list default="true" id="296cc3c8-3849-4820-8f00-b225a88b4729" name="Default" comment="" />
     <ignored path="javasort.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -270,6 +253,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -776,12 +763,12 @@
       <workItem from="1514508670496" duration="1886000" />
       <workItem from="1516106390173" duration="39000" />
       <workItem from="1519461439673" duration="6325000" />
-      <workItem from="1519607845818" duration="7556000" />
+      <workItem from="1519607845818" duration="7572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35098000" />
+    <option name="totallyTimeSpent" value="35114000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -794,7 +781,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997844" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997844" sideWeight="0.49573863" order="7" side_tool="false" content_ui="tabs" />
@@ -805,7 +792,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18380743" sideWeight="0.4595186" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22757111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22757111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
