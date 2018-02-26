@@ -1,3 +1,5 @@
+package com.fk.sort;
+
 /**
  * 插入排序
  * 时间复杂度 O(n^2)
